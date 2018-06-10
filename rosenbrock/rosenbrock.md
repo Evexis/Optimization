@@ -17,5 +17,5 @@ f(x,y)=(1-x)^2+100(y-x^2)^2
 ``` 
 Wielowymiarowym rozwinięciem dla funkcji jest często podawany wzór:
 ```math
-f(x)=\sum _{i=1}^{N-1}\left[(1-x_{i})^{2}+100(x_{i+1}-x_{i}^{2})^{2}\right]\quad \forall x\in \mathbb {R} ^{N}}
+f(x) = \sum_{i=1}^{N-1} [(1-x_i)^2 + 100(x_i+1-x_i^2)^2]
 ``` 
