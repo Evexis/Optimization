@@ -8,7 +8,7 @@ Funkcja ta jest popularnie używana do przedstawiania zachowań algorytmów opty
 ```
 dla którego funkcja przyjmuje wartość
 ```math
-f(x,y)=0}
+f(x,y)=0
 ```
 
 Funkcja definiuje się wzorem:
